@@ -6,8 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Awesome: //dgdisgithub.io/assets/css/awesome.min.css
-Bootstrap: //dgdisgithub.io/assets/css/bootstrap.min.css
+Awesome: //dgdis.github.io/assets/css/awesome.min.css or [editor on Awesome](//dgdis.github.io/assets/css/awesome.min.css)
+
+Bootstrap: //dgdis.github.io/assets/css/bootstrap.min.css or [editor on Bootstrap](//dgdis.github.io/assets/css/bootstrap.min.css)
 
 ## 免费域名,免备案域名,二级域名申请
 
